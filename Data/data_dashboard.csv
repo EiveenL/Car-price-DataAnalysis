@@ -1,0 +1,488 @@
+total,marca,modelo,año,color,fuel_type,puertas,tipo,motor,tipo_cuerpo,kilometros,moneda
+42065.0,Jeep,Compass,2022,Blanco,Nafta,5.0,Automática,2.4,SUV,500,dólares
+35500.0,Jeep,Compass,2022,Gris oscuro,Nafta,5.0,Automática,2.4,SUV,500,dólares
+22486.0,Toyota,Corolla,2019,Gris,Nafta,4.0,Manual,1.8,Sedán,9000,dólares
+34500.0,Jeep,Compass,2022,Negro,Nafta,5.0,Automática,1.3,SUV,10500,dólares
+25000.0,Kia,Sorento,2014,Negro,Diésel,5.0,Automática,2.2,SUV,156000,dólares
+12300.0,Mercedes-Benz,Clase C,2008,Plateado,Nafta,4.0,Automática,1.8,Sedán,174000,dólares
+35500.0,BMW,220,2016,Blanco,Nafta,2.0,Automática,TURBO,Coupé,66000,dólares
+26363.0,Volkswagen,T-Cross,2019,Naranja,Nafta,5.0,Automática,1.6 MSI Nafta,SUV,35000,dólares
+38500.0,Mercedes-Benz,Clase A,2017,Plateado,Nafta,5.0,Automática,3,Hatchback,55394,dólares
+20500.0,Mercedes-Benz,Clase A,2013,Blanco,Nafta,5.0,Manual,1.6,Hatchback,162080,dólares
+23223.0,Volkswagen,Polo,2022,Blanco,Nafta,5.0,Manual,1.6,Hatchback,111111,dólares
+8141.0,Ford,Ecosport,2011,Beige,Nafta,4.0,Manual,1.6,SUV,101000,dólares
+11398.0,Toyota,Etios,2015,Blanco,Nafta,5.0,Manual,1.5,Hatchback,83000,dólares
+7947.0,Renault,Clio,2014,Gris,Nafta,5.0,Manual,1.2,Hatchback,99000,dólares
+15973.0,Toyota,RAV4,2011,Gris,Nafta,5.0,Automática,2.4,SUV,180000,dólares
+15895.0,Toyota,Etios,2018,Gris,Nafta,5.0,Manual,1.5,Sedán,80000,dólares
+15000.0,Mini,Cooper,2013,Rojo,Nafta,5.0,Manual,1.6,Hatchback,105000,dólares
+19768.0,Jeep,Renegade,2018,Rojo,Nafta,5.0,Manual,1.8,SUV,78000,dólares
+32179.0,Toyota,Hilux,2017,Rojo,Diésel,4.0,Manual,2.8,Pick-Up,170000,dólares
+17446.0,Ford,Ecosport,2019,Gris,Nafta,5.0,Manual,1.5,SUV,61000,dólares
+9304.0,Chevrolet,Classic,2014,Gris,Nafta,5.0,Manual,1.6,Hatchback,38000,dólares
+20160.0,Renault,Master,2013,Blanco,Diésel,3.0,Manual,2.3,Hatchback,180000,dólares
+29077.0,Ford,Ranger,2021,Blanco,Diésel,4.0,Manual,2.2,Pick-Up,55000,dólares
+9498.0,Peugeot,408,2013,Gris oscuro,Nafta,4.0,Manual,2,Sedán,95000,dólares
+20160.0,Honda,CR-V,2013,Blanco,Nafta,5.0,Automática,2,SUV,186700,dólares
+9498.0,Dodge,Journey,2011,Blanco,Nafta,5.0,Automática,2.4,Crossover,110000,dólares
+10022.0,Fiat,Siena,2017,Gris,Nafta,5.0,Manual,1.4,Sedán,62000,dólares
+16671.0,Hyundai,Tucson,2010,Negro,Nafta,5.0,Manual,2,SUV,125000,dólares
+29426.0,Honda,HR-V,2019,Rojo,Nafta,5.0,Automática,1.8,SUV,39000,dólares
+7560.0,Fiat,Linea,2014,Plateado,Nafta,4.0,Manual,1.8,Sedán,147000,dólares
+11824.0,Chevrolet,Onix,2016,Gris,Nafta,5.0,Manual,1.4,Hatchback,64000,dólares
+12212.0,Peugeot,408,2015,Blanco,Nafta,4.0,Manual,1.6,Sedán,90000,dólares
+36404.0,Chevrolet,Equinox,2021,Plateado,Nafta,5.0,Automática,1.5,SUV,23000,dólares
+12755.0,Peugeot,308,2015,Blanco,Nafta,5.0,Automática,1.6,Hatchback,83000,dólares
+14900.0,Audi,A1,2011,Blanco,Nafta,3.0,Automática,1.4,Hatchback,99000,dólares
+12212.0,Citroën,Aircross,2017,Plateado,Nafta/GNC,5.0,Automática,1.6,Hatchback,75000,dólares
+12018.0,Peugeot,408,2015,Gris,Nafta,4.0,Manual,2.0,Sedán,57000,dólares
+10661.0,Peugeot,308,2014,Blanco,Nafta,5.0,Manual,1.6,Hatchback,98000,dólares
+14538.0,Ford,Kuga,2013,Blanco,Nafta,5.0,Manual,2.5,SUV,85000,dólares
+43771.0,Toyota,Corolla Cross,2022,Rojo,Híbrido/Nafta,5.0,Automática,1.8,SUV,510,dólares
+46900.0,Jeep,Grand Cherokee,2015,Blanco,Nafta,5.0,Automática,3.6,SUV,44000,dólares
+9770.0,Fiat,Palio,2018,Blanco,Nafta,5.0,Manual,1.4,Hatchback,53000,dólares
+43000.0,Toyota,Camry,2018,Gris,Nafta,4.0,Automática,3.5,Sedán,59698,dólares
+17900.0,Peugeot,208,2018,Negro,Nafta,5.0,Manual,1.6,Sedán,60202,dólares
+22680.0,Toyota,Corolla,2019,Gris,Nafta,4.0,Manual,1.8,Sedán,10000,dólares
+32000.0,Mercedes-Benz,Clase E,2014,Blanco,Nafta,4.0,Automática,2.1,Sedán,129681,dólares
+185000.0,Mercedes-Benz,Clase E,2019,Gris,Nafta,4.0,Automática,3,Sedán,18594,dólares
+9692.0,Volkswagen,Up!,2015,Blanco,Nafta,5.0,Automática,1.0,Hatchback,110000,dólares
+6590.0,Citroën,C3,2010,Azul,Nafta,5.0,Manual,1.6,Hatchback,141000,dólares
+10429.0,Nissan,Tiida,2013,Dorado,Nafta,5.0,Manual,1.8,Hatchback,96000,dólares
+17058.0,Citroën,C4 Cactus,2017,Blanco,Nafta,5.0,Automática,1.2,SUV,58000,dólares
+15469.0,Peugeot,208,2021,Gris,Nafta,5.0,Manual,1.6,Hatchback,7400,dólares
+15314.0,Citroën,C3,2020,Plateado,Nafta,5.0,Manual,1.6,Hatchback,38000,dólares
+8878.0,Citroën,C3,2014,Gris,Nafta,5.0,Manual,1.5,Hatchback,133000,dólares
+15120.0,Jeep,Compass,2013,Gris,Nafta,5.0,Automática,2.4,SUV,140000,dólares
+14538.0,Ford,Focus III,2017,Azul,Nafta,5.0,Manual,1.6,Hatchback,46000,dólares
+10274.0,Peugeot,308,2012,Gris,Nafta,5.0,Manual,1.6,Hatchback,139000,dólares
+58000.0,Toyota,SW4,2019,Blanco,Diésel,5.0,Automática,2.8,SUV,63000,dólares
+20160.0,Fiat,Toro,2018,Negro,Diésel,4.0,Manual,2.0,Pick-Up,59000,dólares
+14732.0,Toyota,Etios,2018,Gris,Nafta,4.0,Manual,1.5,Sedán,64000,dólares
+14151.0,Citroën,C4 Lounge,2017,Blanco,Nafta,4.0,Automática,1.6,Sedán,48000,dólares
+17834.0,Peugeot,208,2019,Blanco,Nafta,5.0,Manual,1.6,Hatchback,48000,dólares
+8839.0,Fiat,Punto,2013,Blanco,Nafta,5.0,Manual,1.4,Hatchback,93000,dólares
+25157.0,Nissan,Kicks,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,53000,dólares
+17252.0,Renault,Duster Oroch,2019,Blanco,Nafta,4.0,Manual,1.6,SUV,40000,dólares
+32915.0,Volkswagen,Vento,2018,Blanco,Nafta,4.0,Manual,2.0,Sedán,44000,dólares
+13957.0,Peugeot,208,2014,Rojo,Nafta,5.0,Manual,1.6,Hatchback,82000,dólares
+26169.0,Jeep,Compass,2018,Negro,Nafta,5.0,Manual,2.4,SUV,60000,dólares
+10816.0,Renault,Kwid,2018,Naranja,Nafta,5.0,Manual,1.0,Hatchback,49000,dólares
+12367.0,Ford,Ecosport,2014,Negro,Nafta,5.0,Manual,1.6,SUV,79000,dólares
+12367.0,Ford,Ka,2019,Blanco,Nafta/GNC,4.0,Manual,1.5,Sedán,59000,dólares
+11437.0,Chevrolet,Spin,2014,Gris,Nafta,5.0,Automática,1.8,Monovolumen,140000,dólares
+16477.0,Fiat,Argo,2022,Blanco,Nafta,5.0,Manual,1.3,Hatchback,2000,dólares
+13375.0,Chevrolet,Spin,2016,Blanco,Nafta,5.0,Manual,1.8,Monovolumen,48000,dólares
+16285.0,Peugeot,208,2017,Plateado,Nafta,5.0,Manual,1.6,Hatchback,80000,dólares
+17795.0,Peugeot,208,2019,Gris,Nafta,5.0,Manual,1.6,Hatchback,13000,dólares
+16426.0,Ford,Focus III,2016,Gris,Nafta,5.0,Manual,2.0,Hatchback,86000,dólares
+9886.0,Citroën,C3,2014,Gris,Nafta,5.0,Manual,1.5,Hatchback,118000,dólares
+46136.0,Toyota,Hilux,2019,Gris,Diésel,4.0,Automática,2.8,Pick-Up,51700,dólares
+8143.0,Ford,Focus II,2009,Dorado,Nafta,5.0,Manual,2.0,Hatchback,133000,dólares
+21905.0,Peugeot,2008,2020,Marrón,Nafta,5.0,Automática,1.6,SUV,26000,dólares
+13569.0,Chevrolet,Onix,2020,Blanco,Nafta,5.0,Manual,1.4,Hatchback,25000,dólares
+20509.0,Ford,Focus III,2018,Gris,Nafta,4.0,Automática,2.0,Sedán,55000,dólares
+9110.0,Peugeot,208,2013,Negro,Nafta,5.0,Manual,1.5,Hatchback,110000,dólares
+14732.0,Chevrolet,Onix,2018,Blanco,Nafta,5.0,Automática,1.4,Hatchback,40000,dólares
+22835.0,Toyota,Yaris,2021,Blanco,Nafta,5.0,Automática,1.5,Hatchback,19000,dólares
+78500.0,RAM,1500,2022,Gris,Nafta,4.0,Automática,5.7,Pick-Up,8300,dólares
+29271.0,Volkswagen,Nivus,2021,Blanco,Nafta,5.0,Automática,1.0,SUV,34000,dólares
+13918.0,Renault,Sandero,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,57000,dólares
+23998.0,Renault,Duster Oroch,2021,Negro,Nafta,4.0,Manual,2.0,SUV,26000,dólares
+6242.0,Renault,Sandero,2013,Negro,Nafta,5.0,Manual,1.6,Hatchback,83000,dólares
+7598.0,Volkswagen,Gol Trend,2015,Plateado,Nafta,5.0,Manual,1.6,Hatchback,65500,dólares
+8839.0,Citroën,C4 Lounge,2014,Plateado,Nafta,4.0,Automática,1.6,Sedán,87000,dólares
+8141.0,Volkswagen,Vento,2015,Plateado,Nafta,4.0,Manual,2.0,Sedán,54500,dólares
+6397.0,Volkswagen,Up!,2018,Blanco,Nafta,5.0,Manual,1.0,Hatchback,79000,dólares
+13918.0,Renault,Duster Oroch,2019,Blanco,Nafta,4.0,Manual,1.6,SUV,87000,dólares
+8335.0,Ford,Focus III,2014,Plateado,Nafta,4.0,Manual,2.0,Sedán,57000,dólares
+14732.0,Honda,HR-V,2015,Plateado,Nafta,5.0,Automática,1.8,SUV,92000,dólares
+6009.0,Volkswagen,Gol,2012,Negro,Nafta,5.0,Manual,1.4,Hatchback,102000,dólares
+6183.0,Renault,Clio,2014,Blanco,Nafta,3.0,Manual,1.2,Hatchback,85000,dólares
+18221.0,Jeep,Renegade,2017,Gris,Nafta,5.0,Manual,1.8,SUV,52000,dólares
+10855.0,Peugeot,2008,2016,Gris,Nafta,5.0,Manual,1.6,SUV,127000,dólares
+42900.0,Hyundai,H1,2015,Gris,Diésel,4.0,Automática,2.5,Monovolumen,8900,dólares
+29077.0,Volkswagen,Vento,2017,Gris,Nafta,4.0,Manual,2.0,Sedán,54000,dólares
+24425.0,Honda,CR-V,2016,Negro,Nafta,5.0,Automática,2.4,SUV,126000,dólares
+13375.0,Fiat,Palio,2016,Marrón,Nafta,5.0,Manual,1.6,Rural,59000,dólares
+36833.0,Ford,Ranger,2018,Gris,Diésel,4.0,Automática,3.2,Pick-Up,70000,dólares
+15081.0,Chevrolet,Cruze,2014,Azul,Nafta,5.0,Automática,1.8,Hatchback,31000,dólares
+16283.0,Peugeot,2008,2017,Blanco,Nafta,5.0,Manual,1.6,SUV,78000,dólares
+25200.0,Volkswagen,Amarok,2016,Negro,Diésel,4.0,Automática,2.0,Pick-Up,129000,dólares
+16632.0,Peugeot,408,2018,Plateado,Diésel,4.0,Manual,1.6,Sedán,59000,dólares
+48075.0,Toyota,Hilux,2019,Gris,Diésel,4.0,Automática,2.8,Pick-Up,52000,dólares
+16244.0,Peugeot,408,2018,Plateado,Diésel,4.0,Manual,1.6,Sedán,59000,dólares
+14151.0,Peugeot,408,2016,Gris,Diésel,4.0,Manual,1.6,Sedán,115000,dólares
+24425.0,Honda,Civic,2017,Gris,Nafta,3.0,Automática,1.5,Hatchback,112000,dólares
+24421.0,Honda,Civic,2017,Gris,Nafta,3.0,Automática,1.5,Hatchback,112000,dólares
+16000.0,Volkswagen,Golf,2016,Plateado,Nafta,5.0,Automática,1.4,Hatchback,126000,dólares
+10467.0,Renault,Sandero,2018,Negro,Nafta,5.0,Manual,1.6,Hatchback,44000,dólares
+7657.0,Fiat,Uno,2016,Blanco,Nafta,5.0,Manual,1.4,Hatchback,87000,dólares
+14151.0,Peugeot,408,2016,Gris,Diésel,4.0,Manual,1.6,Sedán,114000,dólares
+7327.0,Renault,Sandero,2014,Rojo,Nafta,5.0,Manual,1.6,Hatchback,107000,dólares
+25200.0,Volkswagen,Amarok,2016,Negro,Diésel,4.0,Automática,2.0,Pick-Up,128900,dólares
+20160.0,Volkswagen,Polo,2019,Gris,Nafta,5.0,Automática,1.6,Hatchback,33444,dólares
+18182.0,Citroën,Jumper,2014,Blanco,Diésel,4.0,Manual,2.3,Furgón,139000,dólares
+115700.0,BMW,Serie M,2017,Gris,Nafta,2.0,Automática,3.0,Coupé,11000,dólares
+11631.0,Renault,Logan,2018,Dorado,Nafta,4.0,Manual,1.6,Sedán,42000,dólares
+10469.0,Fiat,Palio,2017,Gris,Nafta,5.0,Manual,1.4,Hatchback,37000,dólares
+7755.0,Ford,Focus II,2009,Gris,Nafta,4.0,Manual,2.0,Sedán,160000,dólares
+7755.0,Renault,Clio,2014,Gris,Nafta,5.0,Manual,1.2,Hatchback,88000,dólares
+7755.0,Peugeot,207,2012,Gris,Diésel,5.0,Manual,1.4,Hatchback,110000,dólares
+17174.0,Chevrolet,Cruze II,2018,Plateado,Nafta,4.0,Manual,1.4,Sedán,63000,dólares
+9500.0,Volkswagen,Up!,2014,Plateado,Nafta,3.0,Manual,1.0,Hatchback,88000,dólares
+22676.0,Volkswagen,Amarok,2015,Gris,Diésel,4.0,Manual,2.0,Pick-Up,138468,dólares
+6397.0,Chevrolet,Aveo,2011,Blanco,Nafta,4.0,Manual,1.6,Sedán,153000,dólares
+9500.0,Volkswagen,Up!,2014,Plateado,Nafta,3.0,Manual,1.0,Hatchback,95000,dólares
+19497.0,Renault,Captur,2021,Plateado,Nafta,5.0,Manual,2.0,SUV,102000,dólares
+20160.0,Volkswagen,Polo,2019,Gris,Nafta,5.0,Automática,1.6,Hatchback,33500,dólares
+7172.0,Chevrolet,Celta,2012,Rojo,Nafta,3.0,Manual,1.4,Hatchback,85000,dólares
+11049.0,Volkswagen,Gol Trend,2017,Azul,Nafta,3.0,Manual,1.6,Hatchback,45000,dólares
+13530.0,Volkswagen,Gol Trend,2017,Blanco,Nafta,5.0,Manual,1.6,Hatchback,39000,dólares
+12988.0,Ford,Ecosport,2016,Blanco,Nafta,5.0,Manual,1.6,SUV,108000,dólares
+32915.0,Volkswagen,Passat,2017,Blanco,Nafta,4.0,Automática,2.0,Sedán,59000,dólares
+15081.0,Volkswagen,Polo,2018,Azul,Nafta,5.0,Automática,1.6,Hatchback,79000,dólares
+14151.0,Chevrolet,Prisma,2018,Plateado,Nafta,4.0,Automática,1.4,Sedán,38000,dólares
+10041.0,Peugeot,208,2014,Gris,Nafta,5.0,Manual,1.5,Hatchback,79000,dólares
+15119.0,Peugeot,2008,2017,Gris,Nafta,5.0,Manual,1.6,SUV,68000,dólares
+14305.0,Nissan,Versa,2019,Blanco,Nafta,4.0,Automática,1.6,Sedán,50000,dólares
+19772.0,Volkswagen,Golf,2016,Gris,Nafta,5.0,Automática,1.4,Hatchback,115000,dólares
+21284.0,Jeep,Renegade,2018,Verde,Nafta,5.0,Automática,1.8,SUV,69000,dólares
+16244.0,Ford,Focus III,2016,Gris,Nafta,5.0,Manual,2.0,Hatchback,56000,dólares
+34854.0,Ford,Ranger,2020,Gris,Diésel,4.0,Automática,3.2,Pick-Up,14000,dólares
+25161.0,Ford,Ranger,2015,Blanco,Diésel,4.0,Automática,3.2,Pick-Up,169000,dólares
+28263.0,Ford,Mondeo,2018,Gris,Nafta,4.0,Automática,2.0,Sedán,60000,dólares
+10816.0,Fiat,Fiorino,2016,Blanco,Nafta,3.0,Manual,1.4,Furgón,61000,dólares
+9653.0,Fiat,Qubo,2014,Rojo,Nafta/GNC,5.0,Manual,1.4,Monovolumen,118000,dólares
+25976.0,Audi,Q5,2013,Blanco,Nafta,5.0,Automática,2.0,SUV,153000,dólares
+15081.0,Chevrolet,Cruze,2014,Gris,Nafta,4.0,Automática,1.8,Sedán,31000,dólares
+22409.0,Baic,X55,2019,Negro,Nafta,5.0,Manual,1.5,SUV,38800,dólares
+17058.0,Toyota,Corolla,2016,Blanco,Nafta,4.0,Manual,1.8,Sedán,75000,dólares
+52900.0,Toyota,Hilux,2022,Blanco,Diésel,4.0,Automática,TOYOTA 2.8,Pick-Up,1000,dólares
+8366.0,Chevrolet,Classic,2014,Plateado,Nafta/GNC,4.0,Manual,1.4,Sedán,63000,dólares
+8529.0,Renault,Kangoo,2013,Plateado,Nafta,3.0,Manual,1.6,Furgón,88000,dólares
+8490.0,Citroën,C4,2014,Blanco,Nafta,5.0,Manual,1.6,Hatchback,79000,dólares
+14305.0,Volkswagen,Polo,2017,Dorado,Nafta,4.0,Automática,1.6,Hatchback,45000,dólares
+17500.0,Mercedes-Benz,Clase A,2013,Negro,Nafta,5.0,Manual,1.6,Hatchback,115000,dólares
+14305.0,Volkswagen,Polo,2017,Dorado,Nafta,5.0,Automática,1.6,Hatchback,45000,dólares
+18183.0,Volkswagen,Vento,2016,Negro,Nafta/GNC,4.0,Automática,2.5,Sedán,172000,dólares
+34854.0,Dodge,Journey,2018,Negro,Nafta,5.0,Manual,3.6,SUV,59900,dólares
+18958.0,Chevrolet,Tracker,2017,Gris,Nafta,5.0,Automática,1.8,SUV,41000,dólares
+12406.0,Peugeot,Partner Patagónica,2015,Blanco,Nafta,4.0,Manual,1.6,Monovolumen,91000,dólares
+9692.0,Fiat,500,2012,Negro,Nafta,3.0,Manual,1.4,Hatchback,79000,dólares
+11437.0,Fiat,500,2013,Marrón,Nafta,3.0,Manual,1.4,Hatchback,81262,dólares
+24386.0,Honda,HR-V,2016,Violeta,Nafta,5.0,Automática,1.8,SUV,60000,dólares
+15120.0,Renault,Sandero Stepway,2020,Blanco,Nafta,5.0,Automática,1.6,Hatchback,62850,dólares
+30550.0,Hyundai,Santa Fe,2017,Gris,Nafta,5.0,Manual,2.4,SUV,90000,dólares
+42259.0,Volkswagen,Tiguan Allspace,2021,Gris,Nafta,5.0,Automática,1.4,SUV,48711,dólares
+6784.0,Ford,Ka,2013,Gris,Nafta,3.0,Manual,1.0,Hatchback,70000,dólares
+16477.0,Renault,Duster,2017,Blanco,Nafta,5.0,Manual,1.6,SUV,60000,dólares
+13647.0,Peugeot,Partner,2016,Gris,Diésel,4.0,Manual,1.6,Furgón,74000,dólares
+36637.0,Volkswagen,Amarok,2019,Azul,Diésel,4.0,Automática,2.0,Pick-Up,69000,dólares
+14151.0,Citroën,C-Elysée,2019,Azul,Diésel,4.0,Manual,1.6,Sedán,53000,dólares
+18531.0,Renault,Duster Oroch,2019,Blanco,Nafta,4.0,Manual,1.6,SUV,60000,dólares
+13530.0,Fiat,Argo,2019,Gris,Nafta,5.0,Manual,1.3,Hatchback,18000,dólares
+12406.0,Nissan,Sentra,2014,Negro,Nafta,4.0,Automática,2.0,Sedán,96000,dólares
+13530.0,Fiat,Cronos,2019,Blanco,Nafta,4.0,Manual,1.8,Sedán,86000,dólares
+10428.0,Peugeot,408,2013,Gris,Diésel,4.0,Manual,1.6,Sedán,89000,dólares
+13530.0,Chevrolet,Spin,2016,Gris,Nafta/GNC,5.0,Manual,1.8,Monovolumen,98000,dólares
+20896.0,Nissan,Kicks,2018,Plateado,Nafta,5.0,Automática,1.6,Hatchback,59000,dólares
+12980.0,Citroën,Aircross,2017,Gris,Nafta,5.0,Manual,1.5,Hatchback,61389,dólares
+13189.0,Chevrolet,Cruze,2014,Gris,Nafta,4.0,Manual,1.8,Sedán,61389,dólares
+15469.0,Volkswagen,Suran Cross,2016,Gris,Nafta,5.0,Manual,1.6,Monovolumen,39000,dólares
+16500.0,Honda,CR-V,2010,Celeste,Nafta,5.0,Automática,2.4,SUV,138000,dólares
+17795.0,Volkswagen,Saveiro,2020,Blanco,Nafta,2.0,Manual,1.6,Pick-Up,35000,dólares
+13720.0,Honda,Fit,2013,Gris,Nafta,5.0,Manual,1.5,Hatchback,110000,dólares
+14445.0,Ford,Focus III,2017,Gris,Nafta,5.0,Manual,1.6,Hatchback,56100,dólares
+14344.0,Ford,Fiesta Kinetic Design,2017,Celeste,Nafta,5.0,Manual,1.6,Hatchback,43000,dólares
+22874.0,Fiat,Toro,2017,Rojo,Diésel,4.0,Automática,2.0,Pick-Up,118000,dólares
+6784.0,Volkswagen,Gol Trend,2009,Plateado,Nafta,5.0,Manual,1.6,Hatchback,119000,dólares
+14613.0,Ford,Ecosport,2015,Plateado,Nafta,5.0,Manual,1.6,SUV,51834,dólares
+11359.0,Toyota,Corolla,2011,Gris,Nafta,4.0,Automática,1.8,Sedán,167000,dólares
+7366.0,Chevrolet,Celta,2012,Rojo,Nafta,3.0,Manual,1.4,Hatchback,101000,dólares
+95000.0,BMW,Serie 4,2022,Negro,Nafta,2.0,Automática,2.0,Coupé,21000,dólares
+12018.0,Chevrolet,Onix,2018,Gris,Nafta/GNC,5.0,Manual,1.4,Hatchback,62300,dólares
+14655.0,Ford,Fiesta Kinetic Design,2017,Gris,Nafta,5.0,Manual,1.6,Hatchback,44607,dólares
+11049.0,Peugeot,308,2012,Azul,Nafta,5.0,Manual,2.0,Hatchback,130000,dólares
+9692.0,Citroën,C3 Picasso,2012,Blanco,Nafta,5.0,Manual,1.6,Hatchback,112000,dólares
+7366.0,Fiat,Palio,2011,Gris,Nafta,5.0,Manual,1.6,Rural,190000,dólares
+47700.0,Toyota,SW4,2020,Gris,Diésel,5.0,Automática,2.8,SUV,71000,dólares
+64900.0,RAM,1500,2022,Rojo,Nafta,4.0,Automática,5.7,Pick-Up,18000,dólares
+30899.0,Volkswagen,Taos,2022,Gris,Nafta,5.0,Automática,1.4,SUV,1111,dólares
+25549.0,Volkswagen,T-Cross,2019,Gris,Nafta,5.0,Automática,1.6,SUV,23000,dólares
+15856.0,Ford,Focus III,2017,Azul,Nafta,4.0,Manual,2.0,Sedán,79000,dólares
+19345.0,Ford,Ecosport,2020,Blanco,Nafta,5.0,Automática,1.5,SUV,39000,dólares
+10273.0,Ford,Fiesta Kinetic Design,2013,Gris,Nafta,5.0,Manual,1.6,Hatchback,79000,dólares
+32799.0,Volkswagen,Passat,2017,Blanco,Nafta,4.0,Automática,2.0,Sedán,59000,dólares
+9110.0,Fiat,Palio,2015,Negro,Nafta/GNC,5.0,Manual,1.4,Hatchback,64000,dólares
+30589.0,Hyundai,Santa Fe,2017,Gris,Nafta,5.0,Manual,2.4,SUV,90000,dólares
+23223.0,Jeep,Renegade,2018,Rojo,Nafta,5.0,Automática,1.8,SUV,57000,dólares
+12500.0,BMW,Serie 1,2010,Plateado,Nafta,3.0,Manual,2.0,Hatchback,125000,dólares
+29035.0,Volkswagen,Amarok,2017,Blanco,Diésel,2.0,Manual,2.0,Pick-Up,115000,dólares
+17058.0,Citroën,C4 Cactus,2018,Violeta,Nafta,5.0,Automática,1.2,SUV,46000,dólares
+9731.0,Renault,Sandero,2019,Negro,Nafta,5.0,Manual,1.6,Hatchback,58000,dólares
+36056.0,Ford,Territory,2021,Blanco,Nafta,5.0,Automática,1.5,SUV,15000,dólares
+13569.0,Chevrolet,Onix,2017,Rojo,Nafta/GNC,5.0,Manual,1.4,Hatchback,60000,dólares
+11243.0,Volkswagen,Voyage,2018,Azul,Nafta,4.0,Manual,1.6,Sedán,38000,dólares
+22874.0,Toyota,Yaris,2020,Blanco,Nafta,5.0,Manual,1.5,Hatchback,12000,dólares
+13414.0,Volkswagen,Gol Trend,2017,Blanco,Nafta,5.0,Manual,1.6,Hatchback,39000,dólares
+13957.0,Renault,Duster,2016,Blanco,Nafta,5.0,Manual,1.6,SUV,76000,dólares
+14728.0,Peugeot,208,2017,Gris,Nafta,5.0,Manual,1.6,Hatchback,58000,dólares
+16477.0,Renault,Duster,2015,Negro,Nafta/GNC,5.0,Manual,2.0,SUV,89400,dólares
+11165.0,Ford,Fiesta Kinetic Design,2015,Negro,Nafta,5.0,Manual,1.6,Hatchback,89800,dólares
+8529.0,Honda,Fit,2011,Negro,Nafta,5.0,Manual,1.4,Hatchback,137000,dólares
+25161.0,Mitsubishi,L200,2016,Gris,Diésel,4.0,Manual,3.2,Pick-Up,181800,dólares
+27875.0,Citroën,C4 Spacetourer,2019,Blanco,Nafta,5.0,Automática,1.6,Monovolumen,60000,dólares
+17795.0,Volkswagen,Saveiro,2020,Blanco,Nafta,2.0,Manual,1.6,Pick-Up,37000,dólares
+13530.0,Citroën,DS4,2013,Blanco,Nafta,5.0,Automática,1.6,Hatchback,79100,dólares
+33342.0,Toyota,Hilux,2017,Blanco,Diésel,4.0,Automática,2.8,Pick-Up,170000,dólares
+10599.0,Mercedes-Benz,Clase C,2008,Plateado,Nafta,4.0,Automática,2.2,Sedán,250000,dólares
+30822.0,Nissan,Sentra,2020,Blanco,Nafta,4.0,Automática,2.0,Sedán,30000,dólares
+28500.0,Peugeot,308,2017,Azul,Nafta,5.0,Manual,1.6,Hatchback,42000,dólares
+15469.0,Peugeot,Expert,2014,Blanco,Diésel,3.0,Manual,2.0,Monovolumen,130000,dólares
+13530.0,Ford,Ecosport,2015,Plateado,Nafta,5.0,Manual,1.6,SUV,51000,dólares
+13817.0,Honda,Fit,2013,Blanco,Nafta,5.0,Manual,1.5,Hatchback,82012,dólares
+13375.0,Volkswagen,Vento,2011,Gris,Nafta,4.0,Automática,2.5,Sedán,89000,dólares
+14693.0,Volkswagen,Polo,2018,Gris,Nafta,5.0,Automática,1.6,Hatchback,109000,dólares
+34990.0,Mercedes-Benz,Clase GLA,2015,Negro,Nafta,5.0,Automática,1.6,SUV,86000,dólares
+30628.0,Volkswagen,Amarok,2018,Blanco,Diésel,4.0,Manual,2.0,Pick-Up,79000,dólares
+12212.0,Honda,Fit,2013,Blanco,Nafta,5.0,Manual,1.5,Hatchback,82000,dólares
+11437.0,Toyota,Etios,2017,Blanco,Nafta,5.0,Manual,1.5,Hatchback,84000,dólares
+17291.0,Renault,Duster Oroch,2019,Blanco,Nafta,4.0,Manual,1.6,SUV,62000,dólares
+12212.0,Chevrolet,Cruze,2014,Plateado,Nafta,4.0,Manual,1.8,Sedán,61000,dólares
+13499.0,Volkswagen,Vento,2012,Plateado,Nafta,4.0,Automática,2.0,Sedán,196000,dólares
+13511.0,Volkswagen,Polo,2017,Gris,Nafta,4.0,Manual,1.6,Hatchback,49000,dólares
+12367.0,Renault,Kwid,2020,Rojo,Nafta,5.0,Manual,1.0,Hatchback,39000,dólares
+12755.0,Renault,Mégane III,2016,Azul,Nafta,4.0,Manual,1.6,Hatchback,69000,dólares
+48423.0,Toyota,Corolla Cross,2022,Negro,Híbrido/Nafta,5.0,Automática,1.8,SUV,2000,dólares
+10428.0,Peugeot,308,2012,Blanco,Nafta,5.0,Manual,1.6,Hatchback,79000,dólares
+35499.0,Toyota,Hilux,2020,Plateado,Diésel,4.0,Automática,2.8,Pick-Up,57700,dólares
+13530.0,Hyundai,Tucson,2011,Plateado,Nafta,5.0,Manual,2.0,SUV,137000,dólares
+13918.0,Ford,Focus III,2015,Blanco,Nafta,5.0,Automática,2.0,Hatchback,79000,dólares
+11591.0,Fiat,500,2014,Azul,Nafta,3.0,Manual,1.4,Hatchback,69000,dólares
+54084.0,Chevrolet,Trailblazer,2021,Gris,Diésel,5.0,Automática,2.8,SUV,23000,dólares
+12367.0,Chevrolet,Onix,2016,Rojo,Nafta/GNC,5.0,Automática,1.4,Hatchback,60000,dólares
+9692.0,Subaru,XV,2011,Blanco,Nafta,5.0,Automática,2.0,Hatchback,204000,dólares
+48420.0,Toyota,Hilux,2019,Blanco,Diésel,4.0,Automática,2.8,Pick-Up,64000,dólares
+22831.0,Jeep,Renegade,2017,Gris,Nafta,5.0,Automática,1.8,SUV,62000,dólares
+14344.0,Toyota,RAV4,2010,Negro,Nafta,5.0,Automática,2.4,SUV,98000,dólares
+11979.0,Chevrolet,Prisma,2017,Negro,Nafta/GNC,4.0,Manual,1.4,Sedán,69000,dólares
+25161.0,Audi,A1,2016,Gris,Nafta,3.0,Automática,1.4,Hatchback,46000,dólares
+17019.0,Audi,A3 Sportback,2011,Blanco,Nafta,5.0,Automática,2.0,Hatchback,89000,dólares
+10855.0,Peugeot,308,2016,Blanco,Nafta,5.0,Manual,1.6,Hatchback,161000,dólares
+17950.0,Peugeot,208,2022,Negro,Nafta,5.0,Manual,1.6,Hatchback,500,dólares
+26990.0,Toyota,SW4,2011,Negro,Diésel,5.0,Manual,3.0 TD,SUV,140000,dólares
+8000.0,Volkswagen,Gol Trend,2013,Gris,Nafta,5.0,Manual,1.6,Hatchback,130000,dólares
+15468.0,Audi,A4,2011,Gris,Nafta,4.0,Automática,2.0,Sedán,99100,dólares
+27720.0,Honda,HR-V,2017,Blanco,Nafta,5.0,Automática,1.8,SUV,77000,dólares
+13377.0,Volkswagen,Suran,2015,Plateado,Nafta,5.0,Manual,1.6,Monovolumen,65000,dólares
+13569.0,Ford,Fiesta Kinetic Design,2017,Plateado,Nafta,5.0,Manual,1.6,Hatchback,44000,dólares
+32954.0,Volkswagen,Amarok,2019,Dorado,Diésel,4.0,Automática,2.0,Pick-Up,88000,dólares
+10661.0,Peugeot,408,2012,Gris,Nafta,4.0,Automática,1.6,Sedán,95000,dólares
+40708.0,Peugeot,3008,2020,Gris,Nafta,5.0,Automática,1.6,SUV,45800,dólares
+12600.0,Chevrolet,Onix,2017,Negro,Nafta,5.0,Manual,1.4,Hatchback,112000,dólares
+10273.0,Ford,Fiesta Kinetic Design,2013,Violeta,Nafta,5.0,Manual,1.6,Hatchback,79000,dólares
+46136.0,Toyota,Hilux,2019,Gris,Diésel,4.0,Automática,2.8,Pick-Up,51600,dólares
+25937.0,Toyota,Corolla,2019,Marrón,Nafta,4.0,Automática,1.8,Sedán,49000,dólares
+42259.0,Volkswagen,Tiguan Allspace,2021,Gris,Nafta,5.0,Automática,1.4,SUV,48700,dólares
+19772.0,Volkswagen,Saveiro,2019,Gris,Nafta,2.0,Manual,1.6,Pick-Up,86000,dólares
+12755.0,Citroën,C3,2017,Blanco,Nafta,5.0,Manual,1.5,Hatchback,96400,dólares
+20897.0,Ford,Focus III,2017,Rojo,Nafta,5.0,Automática,2.0,Hatchback,26000,dólares
+9886.0,Citroën,C3,2014,Blanco,Nafta,5.0,Manual,1.6,Hatchback,119000,dólares
+11592.0,Peugeot,308,2014,Blanco,Nafta,5.0,Manual,1.6,Hatchback,74000,dólares
+12794.0,Volkswagen,Gol Trend,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,55000,dólares
+18183.0,Chevrolet,Tracker,2017,Gris,Nafta,5.0,Automática,1.8,SUV,41000,dólares
+19772.0,Renault,Duster,2019,Plateado,Nafta,5.0,Manual,1.6,SUV,59000,dólares
+12794.0,Volkswagen,Gol Trend,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,55000,dólares
+45942.0,Ford,Ranger,2021,Gris,Diésel,4.0,Automática,3.2,Pick-Up,61000,dólares
+18997.0,Chevrolet,S10,2016,Blanco,Diésel,4.0,Manual,2.8,Pick-Up,152000,dólares
+28302.0,Toyota,Corolla,2021,Negro,Nafta,4.0,Automática,1.8,Sedán,29200,dólares
+15120.0,Renault,Sandero,2020,Blanco,Nafta,5.0,Automática,1.6,Hatchback,62400,dólares
+32954.0,Peugeot,5008,2018,Gris,Nafta,5.0,Manual,1.6,Monovolumen,52000,dólares
+14500.0,Mercedes-Benz,Clase C,2009,Azul,Nafta,4.0,Automática,3.0,Sedán,105000,dólares
+43990.0,Mercedes-Benz,Clase GLA,2017,Gris,Nafta,5.0,Automática,1.6,SUV,60000,dólares
+15508.0,Ford,Fiesta Kinetic Design,2019,Plateado,Nafta/GNC,5.0,Manual,1.6,Hatchback,38000,dólares
+11631.0,Volkswagen,Up!,2016,Gris,Nafta,3.0,Manual,1.0,Hatchback,25000,dólares
+77500.0,RAM,1500,2022,Gris,Nafta,4.0,Automática,5.7,Pick-Up,8000,dólares
+28651.0,Jeep,Renegade,2020,Blanco,Nafta,5.0,Automática,1.8,SUV,40000,dólares
+89990.0,BMW,Serie 2,2021,Celeste,Nafta,2.0,Automática,3.0,Coupé,2500,dólares
+32954.0,Volkswagen,Vento,2018,Blanco,Nafta,4.0,Manual,2.0,Sedán,44000,dólares
+33999.0,Volkswagen,Golf,2016,Blanco,Nafta,5.0,Automática,2.0,Hatchback,41100,dólares
+21246.0,BMW,Serie 3,2009,Gris,Nafta,2.0,Manual,2.5,Coupé,79700,dólares
+17058.0,Citroën,C4 Lounge,2018,Blanco,Diésel,4.0,Manual,1.6,Sedán,48000,dólares
+31985.0,Volkswagen,Amarok,2018,Plateado,Diésel,4.0,Automática,2.0,Pick-Up,50000,dólares
+22486.0,Volkswagen,Vento,2015,Blanco,Nafta,4.0,Automática,2.5,Sedán,98000,dólares
+10467.0,Chevrolet,Prisma,2013,Celeste,Nafta,4.0,Manual,1.4,Sedán,64000,dólares
+35862.0,Mercedes-Benz,Sprinter,2018,Blanco,Diésel,2.0,Manual,2.1,Minivan,242000,dólares
+9459.0,Renault,Fluence,2013,Dorado,Nafta,4.0,Manual,1.6,Sedán,45000,dólares
+8490.0,Renault,Clio,2016,Gris,Nafta,5.0,Manual,1.2,Hatchback,89100,dólares
+11541.0,Toyota,Etios,2017,Blanco,Nafta,5.0,Manual,1.5,Hatchback,85400,dólares
+26990.0,Volkswagen,Polo,2021,Blanco,Nafta,5.0,Automática,1.4,Hatchback,10900,dólares
+12212.0,Ford,Ranger,2007,Blanco,Diésel,2.0,Manual,3.0,Pick-Up,178000,dólares
+11631.0,Volkswagen,Gol Trend,2016,Blanco,Nafta,5.0,Manual,1.6,Hatchback,96133,dólares
+11631.0,Citroën,C4 Lounge,2016,Gris,Nafta,4.0,Automática,1.6,Sedán,76916,dólares
+23262.0,Fiat,Toro,2017,Plateado,Diésel,4.0,Automática,2.0,Pick-Up,108933,dólares
+12794.0,Chery,Tiggo 3,2017,Gris,Nafta,5.0,Manual,1.6,SUV,71239,dólares
+10080.0,Renault,Fluence,2016,Blanco,Nafta,4.0,Manual,1.6,Sedán,98700,dólares
+12716.0,Ford,Ka,2018,Rojo,Nafta,5.0,Manual,1.5,Hatchback,37000,dólares
+18183.0,Renault,Kangoo,2021,Gris,Nafta,3.0,Manual,1.6,Furgón,23000,dólares
+7346.0,Suzuki,Swift,2009,Gris,Nafta,5.0,Manual,1.5,Hatchback,190000,dólares
+16865.0,Ford,Focus III,2017,Blanco,Nafta,5.0,Automática,2.0,Hatchback,44500,dólares
+43422.0,Toyota,Hilux,2021,Gris,Diésel,4.0,Automática,2.8,Pick-Up,28000,dólares
+46097.0,Volkswagen,Taos,2022,Gris,Nafta,5.0,Automática,1.4,SUV,1011,dólares
+16283.0,Renault,Sandero,2020,Gris,Nafta,5.0,Manual,1.6,Hatchback,22000,dólares
+22835.0,Hyundai,Creta,2019,Blanco,Nafta,5.0,Automática,1.6,SUV,55000,dólares
+16283.0,Ford,Focus III,2018,Blanco,Nafta,4.0,Manual,1.6,Sedán,46000,dólares
+34854.0,Dodge,Journey,2018,Negro,Nafta,5.0,Manual,3.6,SUV,60000,dólares
+11631.0,BMW,Serie 1,2008,Gris,Nafta,5.0,Manual,1.6,Hatchback,121000,dólares
+77500.0,RAM,1500,2022,Blanco,Nafta,4.0,Automática,5.7,Pick-Up,4700,dólares
+18183.0,Renault,Captur,2018,Naranja,Nafta,5.0,Manual,2.0,SUV,61000,dólares
+43403.0,Volkswagen,Golf,2019,Blanco,Nafta,5.0,Automática,2.0,Hatchback,58000,dólares
+23223.0,Jeep,Renegade,2018,Azul,Nafta,5.0,Automática,1.8,SUV,62000,dólares
+21131.0,Volkswagen,Amarok,2015,Blanco,Diésel,4.0,Manual,2.0,Pick-Up,115000,dólares
+16300.0,Ford,F-100,1997,Gris,Diésel,2.0,Manual,2.5,Pick-Up,335000,dólares
+23998.0,Honda,Fit,2019,Blanco,Nafta,5.0,Automática,1.5,Hatchback,28000,dólares
+30589.0,Hyundai,Santa Fe,2017,Gris,Nafta,5.0,Automática,2.4,SUV,90000,dólares
+37180.0,Jeep,Compass,2020,Gris,Nafta,5.0,Manual,2.4,SUV,6000,dólares
+36990.0,Toyota,Corolla,2022,Blanco,Híbrido/Nafta,4.0,Automática,1.8,Sedán,1111,dólares
+40321.0,Ford,Territory,2022,Dorado,Nafta,5.0,Automática,1.5,SUV,1000,dólares
+7560.0,Renault,Clio,2012,Negro,Nafta,5.0,Manual,1.2,Hatchback,122000,dólares
+55437.0,Volkswagen,Amarok,2022,Blanco,Diésel,4.0,Automática,3.0,Pick-Up,500,dólares
+26500.0,Fiat,500X,2019,Gris,Nafta,5.0,Automática,1.4,SUV,60900,dólares
+19346.0,Renault,Captur,2019,Blanco,Nafta,5.0,Automática,1.6,SUV,73000,dólares
+23223.0,Kia,Cerato,2020,Blanco,Nafta,4.0,Automática,2.0,Sedán,86000,dólares
+10425.0,Peugeot,208,2015,Blanco,Nafta,5.0,Manual,1.5,Hatchback,71000,dólares
+10467.0,Renault,Kangoo,2011,Gris,Nafta,4.0,Automática,1.6,Monovolumen,39000,dólares
+13900.0,Kia,Soul,2016,Azul,Nafta,5.0,Automática,1.6,SUV,126000,dólares
+27294.0,Volkswagen,Amarok,2014,Gris,Diésel,4.0,Automática,2.0,Pick-Up,125000,dólares
+13181.0,Volkswagen,Voyage,2017,Gris,Nafta,4.0,Manual,1.6,Sedán,83000,dólares
+11243.0,Chevrolet,Prisma,2015,Blanco,Nafta,4.0,Manual,1.4,Sedán,126000,dólares
+9692.0,Chevrolet,Sonic,2013,Gris,Nafta,5.0,Manual,1.6,Hatchback,102000,dólares
+8102.0,Volkswagen,Bora,2011,Negro,Nafta,4.0,Manual,2.0,Sedán,168200,dólares
+18221.0,Chevrolet,Tracker,2017,Plateado,Nafta,5.0,Automática,1.8,SUV,45100,dólares
+65900.0,Ford,Ranger Raptor,2022,Blanco,Diésel,4.0,Automática,2.0,Pick-Up,1111,dólares
+77490.0,RAM,1500,2022,Blanco,Nafta,4.0,Automática,5.7,Pick-Up,4700,dólares
+16500.0,Ford,Focus III,2017,Gris,Nafta,5.0,Automática,2.0,Hatchback,75000,dólares
+11049.0,Peugeot,308,2012,Blanco,Nafta,5.0,Manual,1.6,Hatchback,136000,dólares
+19578.0,Peugeot,2008,2019,Blanco,Nafta,5.0,Manual,1.6,SUV,29530,dólares
+14732.0,Chevrolet,Onix,2018,Gris,Nafta,5.0,Manual,1.4,Hatchback,28300,dólares
+25976.0,Honda,HR-V,2018,Gris,Nafta,5.0,Automática,1.8,SUV,99700,dólares
+19345.0,Volkswagen,T-Cross,2019,Rojo,Nafta,5.0,Manual,1.6,SUV,69100,dólares
+24386.0,Volkswagen,T-Cross,2019,Gris,Nafta,5.0,Manual,1.6,SUV,30000,dólares
+30201.0,Volkswagen,Amarok,2018,Azul,Diésel,4.0,Manual,2.0,Pick-Up,99100,dólares
+31000.0,Mercedes-Benz,Clase A,2017,Plateado,Nafta,5.0,Manual,1.6,Hatchback,59000,dólares
+22835.0,Chevrolet,S10,2016,Blanco,Diésel,4.0,Manual,2.8,Pick-Up,143000,dólares
+30589.0,Volkswagen,Amarok,2018,Blanco,Diésel,4.0,Manual,2.0,Pick-Up,79000,dólares
+13530.0,Hyundai,Tucson,2011,Gris,Nafta,5.0,Manual,2.0,SUV,137000,dólares
+79000.0,BMW,Serie 2,2021,Azul,Nafta,2.0,Automática,2.0,Coupé,4100,dólares
+46999.0,Mercedes-Benz,Clase A,2017,Blanco,Nafta,5.0,Automática,2.0,Hatchback,12000,dólares
+17407.0,Fiat,Toro,2017,Plateado,Diésel,4.0,Manual,2.0,Pick-Up,65000,dólares
+24037.0,Toyota,Corolla,2019,Blanco,Nafta,4.0,Automática,1.8,Sedán,31000,dólares
+128000.0,Ford,F-150,2020,Blanco,Diésel,4.0,Automática,2.0,Pick-Up,52900,dólares
+90000.0,BMW,Serie 2,2021,Azul,Nafta,2.0,Automática,3.0,Coupé,2500,dólares
+68000.0,Audi,S3,2018,Azul,Nafta,3.0,Automática,2.0,Hatchback,25500,dólares
+235000.0,Audi,R8 Coupé,2011,Blanco,Nafta,2.0,Automática,5.2,Coupé,19200,dólares
+12716.0,Citroën,C4 Lounge,2016,Blanco,Nafta,4.0,Automática,1.6,Sedán,100000,dólares
+30000.0,Honda,HR-V,2020,Blanco,Nafta,5.0,Automática,1.8,SUV,20000,dólares
+24037.0,Toyota,Corolla,2019,Blanco,Nafta,4.0,Automática,1.8,Sedán,31000,dólares
+15000.0,Volkswagen,Vento,2014,Gris,Nafta,4.0,Automática,2.0,Sedán,119000,dólares
+18375.0,Chevrolet,Tracker,2017,Blanco,Nafta,5.0,Manual,1.8,SUV,47000,dólares
+16089.0,Ford,Focus III,2019,Blanco,Nafta/GNC,4.0,Manual,1.6,Sedán,57000,dólares
+9886.0,Renault,Sandero,2017,Blanco,Nafta,5.0,Manual,1.6,Hatchback,120000,dólares
+10855.0,Volkswagen,Gol Trend,2016,Gris,Nafta,5.0,Manual,1.6,Hatchback,82000,dólares
+12212.0,Chevrolet,Onix,2015,Gris,Nafta,5.0,Automática,1.4,Hatchback,67000,dólares
+24800.0,BMW,Serie 3,2008,Negro,Nafta,2.0,Manual,3.0,Coupé,91400,dólares
+7947.0,Volkswagen,Gol,2014,Gris,Nafta,5.0,Manual,1.4,Hatchback,43000,dólares
+34900.0,Honda,CR-V,2016,Negro,Nafta,5.0,Automática,2.4,SUV,62000,dólares
+42259.0,Volkswagen,Tiguan Allspace,2021,Gris,Nafta,5.0,Automática,1.4,SUV,48500,dólares
+7947.0,Chevrolet,Meriva,2012,Gris,Nafta/GNC,5.0,Manual,1.8,Monovolumen,98000,dólares
+32179.0,Jeep,Compass,2019,Blanco,Nafta,5.0,Automática,2.4,SUV,36000,dólares
+12367.0,Chevrolet,Onix,2016,Rojo,Nafta,5.0,Manual,1.4,Hatchback,60000,dólares
+32179.0,Jeep,Compass,2019,Blanco,Nafta,5.0,Manual,2.4,SUV,36000,dólares
+4652.0,Chevrolet,Corsa,2008,Plateado,Nafta,3.0,Manual,1.6,Hatchback,150000,dólares
+44198.0,Ford,Territory,2022,Blanco,Nafta,5.0,Automática,1.5,SUV,1000,dólares
+13957.0,Peugeot,308,2014,Gris,Nafta,5.0,Automática,1.6,Hatchback,118000,dólares
+18221.0,Citroën,C4 Cactus,2018,Negro,Nafta,5.0,Automática,1.2,SUV,39600,dólares
+10855.0,Chevrolet,Prisma,2016,Negro,Nafta,4.0,Manual,1.4,Sedán,70943,dólares
+17834.0,Renault,Captur,2017,Blanco,Nafta,5.0,Automática,2.0,SUV,42800,dólares
+14732.0,Citroën,Berlingo,2015,Gris,Diésel,5.0,Manual,1.6,Monovolumen,134545,dólares
+19500.0,Mini,Cooper Countryman,2014,Azul,Nafta,5.0,Automática,1.6,Hatchback,119000,dólares
+25766.0,Ford,Ranger,2020,Blanco,Diésel,4.0,Manual,2.2,Pick-Up,127000,dólares
+13007.0,Chevrolet,Prisma,2019,Negro,Nafta/GNC,4.0,Manual,1.4,Sedán,83000,dólares
+10855.0,Ford,Ka,2016,Rojo,Nafta,5.0,Manual,1.5,Hatchback,61000,dólares
+27526.0,Volkswagen,Vento,2018,Gris,Nafta,4.0,Manual,2.0,Sedán,120000,dólares
+8393.0,Chevrolet,Celta,2014,Negro,Nafta/GNC,5.0,Manual,1.4,Hatchback,69000,dólares
+18958.0,Volkswagen,Tiguan,2012,Gris,Nafta,5.0,Automática,2.0,SUV,148000,dólares
+41990.0,Toyota,SW4,2016,Blanco,Diésel,5.0,Automática,2.8,SUV,73000,dólares
+46485.0,RAM,1500,2017,Gris,Nafta,4.0,Automática,5.7,Pick-Up,79100,dólares
+8900.0,Volvo,C30,2008,Negro,Nafta,5.0,Manual,2.0,Hatchback,173000,dólares
+40165.0,DS,DS3 Crossback,2021,Azul,Nafta,5.0,Automática,1.2,Hatchback,15100,dólares
+42259.0,Volkswagen,Tiguan Allspace,2021,Gris,Nafta,5.0,Automática,1.4,SUV,48750,dólares
+10000.0,Volvo,960,1995,Gris,Nafta,5.0,Manual,3.0,Rural,125000,dólares
+40165.0,DS,DS3 Crossback,2021,Verde,Nafta,5.0,Automática,1.2,Hatchback,15000,dólares
+23000.0,Volkswagen,Amarok,2016,Azul,Diésel,4.0,Manual,2.0,Pick-Up,215000,dólares
+28651.0,Volkswagen,Amarok,2016,Negro,Diésel,4.0,Manual,2.0,Pick-Up,135000,dólares
+13500.0,Volkswagen,Tiguan,2009,Plateado,Diésel,5.0,Automática,2.0,SUV,170000,dólares
+36056.0,Ford,Territory,2022,Blanco,Nafta,5.0,Automática,1.5,SUV,10897,dólares
+14693.0,Ford,Ecosport,2017,Gris,Nafta,5.0,Manual,1.6,SUV,74000,dólares
+22835.0,Volkswagen,T-Cross,2019,Gris,Nafta,5.0,Automática,1.6,SUV,88000,dólares
+15990.0,Jeep,Patriot,2012,Negro,Nafta,5.0,Manual,2.0,SUV,119000,dólares
+24500.0,Volkswagen,Nivus,2021,Gris,Nafta,5.0,Automática,1.0,SUV,10000,dólares
+19345.0,Volkswagen,T-Cross,2019,Violeta,Nafta,5.0,Manual,1.6,SUV,69000,dólares
+38382.0,Toyota,RAV4,2017,Gris,Nafta,5.0,Automática,2.5,SUV,83100,dólares
+28108.0,Toyota,Corolla,2021,Negro,Nafta,4.0,Automática,1.8,Sedán,29120,dólares
+15895.0,Renault,Duster,2018,Blanco,Nafta/GNC,5.0,Manual,1.6,SUV,111000,dólares
+15895.0,Chevrolet,Cruze II,2016,Blanco,Nafta,4.0,Manual,1.4,Sedán,63000,dólares
+38382.0,Jeep,Compass,2022,Plateado,Nafta,5.0,Automática,1.3,SUV,1800,dólares
+25549.0,Mercedes-Benz,Sprinter,2015,Blanco,Diésel,2.0,Manual,2.1,Furgón,179100,dólares
+14500.0,BMW,Serie 3,2008,Gris,Nafta,4.0,Manual,2.0,Sedán,73000,dólares
+9304.0,Renault,Fluence,2011,Gris,Nafta,4.0,Manual,1.6,Sedán,89000,dólares
+30990.0,Jeep,Compass,2017,Blanco,Nafta,5.0,Automática,2.4,SUV,41000,dólares
+430000.0,Audi,R8 Coupé,2020,Azul,Nafta,2.0,Automática,5.2,Coupé,3000,dólares
+13499.0,Mitsubishi,Outlander,2012,Negro,Nafta,5.0,Automática,2.4,SUV,168000,dólares
+13957.0,Citroën,DS4,2012,Gris,Nafta,5.0,Automática,1.6,Hatchback,86000,dólares
+12988.0,Chevrolet,Prisma,2017,Blanco,Nafta,4.0,Manual,1.4,Sedán,121000,dólares
+10274.0,Renault,Duster,2013,Gris,Nafta,5.0,Manual,1.6,SUV,106000,dólares
+20742.0,Renault,Duster Oroch,2019,Blanco,Nafta,5.0,Manual,2.0,SUV,28000,dólares
+21905.0,Toyota,Corolla,2017,Plateado,Nafta,4.0,Automática,1.8,Sedán,55000,dólares
+13957.0,Citroën,Aircross,2018,Blanco,Nafta,5.0,Automática,1.6,Hatchback,67000,dólares
+26324.0,Chevrolet,Tracker,2022,Blanco,Nafta,5.0,Manual,1.2,SUV,1400,dólares
+7211.0,Renault,Logan,2014,Negro,Nafta,4.0,Manual,1.6,Sedán,86000,dólares
+18609.0,Toyota,Yaris,2019,Blanco,Nafta,4.0,Automática,1.5,Sedán,35000,dólares
+16244.0,Fiat,Cronos,2021,Gris,Nafta,4.0,Manual,1.3,Sedán,21000,dólares
+13181.0,Peugeot,2008,2017,Gris,Nafta,5.0,Manual,1.6,SUV,70000,dólares
+39990.0,Toyota,Hilux,2022,Gris,Diésel,4.0,Automática,2.8,Pick-Up,18000,dólares
+10816.0,Toyota,Corolla,2013,Plateado,Nafta,4.0,Manual,1.8,Sedán,143000,dólares
+34505.0,Chevrolet,Tracker,2020,Plateado,Nafta,5.0,Automática,1.2,SUV,37000,dólares
+7715.0,Citroën,Berlingo,2009,Plateado,Nafta,5.0,Manual,1.4,Furgón,220000,dólares
+35280.0,Dodge,Journey,2018,Negro,Nafta,5.0,Manual,3.6,SUV,41800,dólares
+11921.0,Chevrolet,Onix,2016,Plateado,Nafta,5.0,Manual,1.4,Hatchback,58500,dólares
+12755.0,Ford,Ka,2018,Blanco,Nafta,5.0,Manual,1.5,Hatchback,30000,dólares
+9266.0,Citroën,C4,2014,Blanco,Nafta,5.0,Automática,2.0,Hatchback,76000,dólares
+46990.0,Volkswagen,Golf,2018,Blanco,Nafta,5.0,Automática,2.0,Hatchback,15300,dólares
+11049.0,Chevrolet,Onix,2016,Plateado,Nafta,5.0,Manual,1.4,Hatchback,68000,dólares
+12367.0,Renault,Sandero Stepway,2018,Plateado,Nafta/GNC,5.0,Manual,1.6,Hatchback,52000,dólares
+90000.0,Jeep,Grand Cherokee,2017,Gris,Nafta,5.0,Automática,6.4,SUV,35000,dólares
+19191.0,Toyota,Yaris,2019,Blanco,Nafta,4.0,Manual,1.5,Sedán,37000,dólares
+8917.0,Citroën,C3 Picasso,2011,Negro,Nafta,5.0,Manual,1.6,Hatchback,114600,dólares
+15900.0,Volkswagen,Passat,2012,Gris,Nafta,4.0,Automática,2.0,Sedán,147000,dólares
+12014.0,Ford,Ka,2018,Blanco,Nafta,5.0,Manual,1.5,Hatchback,58000,dólares
+9691.0,Peugeot,408,2011,Negro,Nafta,4.0,Automática,2.0,Sedán,80000,dólares
+16088.0,Peugeot,208,2018,Gris,Nafta,5.0,Automática,1.6,Hatchback,33000,dólares
+15503.0,Ford,Ecosport,2016,Negro,Nafta,5.0,Manual,1.6,SUV,80000,dólares
+12599.0,Ford,Fiesta Kinetic Design,2015,Azul,Nafta,5.0,Manual,1.6,Hatchback,55000,dólares
+10854.0,Citroën,C3,2013,Gris,Nafta,5.0,Manual,1.6,Hatchback,34000,dólares
+15313.0,Volkswagen,Suran,2019,Gris,Nafta,5.0,Manual,1.6,Monovolumen,48000,dólares
+10781.0,Nissan,March,2015,Rojo,Nafta,5.0,Manual,1.6,Hatchback,51000,dólares
+17251.0,Peugeot,208,2020,Gris,Nafta,5.0,Manual,1.6,Hatchback,11000,dólares
+43771.0,Ford,Territory,2022,Negro,Nafta,5.0,Automática,1.5,SUV,1000,dólares
+13375.0,Toyota,Etios,2017,Blanco,Nafta,5.0,Manual,1.5,Hatchback,87000,dólares
+11631.0,Nissan,March,2018,Gris,Nafta,5.0,Manual,1.6,Hatchback,67082,dólares
+12367.0,Peugeot,3008,2013,Negro,Nafta,5.0,Manual,1.6,Monovolumen,135000,dólares
+29853.0,Honda,CR-V,2017,Gris,Nafta,5.0,Automática,2.4,SUV,154451,dólares
+11204.0,Chevrolet,Cruze,2014,Gris,Nafta,5.0,Manual,1.8,Hatchback,107000,dólares
+20354.0,Chevrolet,Tracker,2018,Gris,Nafta,5.0,Automática,1.8,SUV,52000,dólares
+46000.0,Volkswagen,Amarok,2019,Gris,Diésel,4.0,Automática,3.0,Pick-Up,49000,dólares
+15353.0,Peugeot,2008,2017,Blanco,Nafta,5.0,Manual,1.6,SUV,75358,dólares
+44900.0,Volkswagen,Amarok,2019,Gris,Diésel,4.0,Automática,3.0,Pick-Up,57500,dólares
+11204.0,Toyota,Etios,2015,Gris,Nafta,5.0,Manual,1.5,Hatchback,84000,dólares
